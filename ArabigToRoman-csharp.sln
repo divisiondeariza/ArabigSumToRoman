@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{D7006DA6-0779-F4BB-AF01-AF6AD132C331}") = "ArabigToRoman", "Assembly-CSharp.csproj", "{BB0FD9D9-5498-6DB6-7F4B-5224EE3C4F6A}"
+Project("{D7006DA6-0779-F4BB-AF01-AF6AD132C331}") = "ArabigToRoman", "Assembly-CSharp-vs.csproj", "{BB0FD9D9-5498-6DB6-7F4B-5224EE3C4F6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,7 +17,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-					GlobalSection(MonoDevelopProperties) = preSolution
+						GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
